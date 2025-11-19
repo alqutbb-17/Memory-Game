@@ -129,36 +129,8 @@ body {
 
 }
 
-@media (max-width: 900px) {
-    .memory-game-blocks {
-    width: 700px;
-    text-align: center;
-  }
-  .memory-game-blocks .game-block {
-    flex: 1 0 100px;
-    margin: 0 10px 10px;
-  }
-  .memory-game-blocks .game-block .back img {
-    width: 70px;
-    height: 70px;
-    margin-top: 10px;
-  }
-  .memory-game-blocks .game-block .front:before {
-    font-size: 70px;
-  }
-  .info-container {
-    width: 660px;
-  }
-  .info-container .name {
-    width: 30%;
-  }
-  .info-container .tries {
-    width: 70%;
-  }
-}
 
-
-}
+  
 
 
 

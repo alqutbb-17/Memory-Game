@@ -103,6 +103,7 @@ body {
 @media (max-width: 1100px) {
   .memory-game-blocks {
     width: 900px;
+    text-align: center;
   }
   .memory-game-blocks .game-block {
     flex: 1 0 150px;
@@ -125,4 +126,5 @@ body {
   .info-container .tries {
     width: 60%;
   }
+
 }

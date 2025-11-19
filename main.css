@@ -157,20 +157,8 @@ body {
   }
 }
 
-@media (max-width: 600px) {
-    .memory-game-blocks {
-    width: 500px;
-    text-align: center;
-  }
 
-  .memory-game-blocks .game-block .back img {
-    width: 80%;
-    height: 80%;
-    margin-top: 10px;
-  }
-  .memory-game-blocks .game-block .front:before {
-    font-size: 70px;
-  }
 }
+
 
 
